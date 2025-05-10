@@ -33,11 +33,4 @@ namespace CICD_Practice
         }
     }
 
-    public class Presenter
-    {
-        public Presenter()
-        {
-            HomeBudget budget = new HomeBudget("abc.db", true);
-        }
-    }
 }
